@@ -110,8 +110,8 @@ Data Engineering
 
 I'm always interested in connecting with people working in **Data Analytics, AI, Business Intelligence, and Technology**.
 
-📧 Email: [[your-email@example.com](rofiahbudi@gmail.com)]
-💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com](https://www.linkedin.com/in/rofiahbn/))
+📧 Email: [[rofiahbudi@gmail.com]]
+💼 LinkedIn: [[https://www.linkedin.com/in/rofiahbn/])
 📊 Portfolio: [(https://rofiahbn.github.io/portofolio/)]
 
 ---
