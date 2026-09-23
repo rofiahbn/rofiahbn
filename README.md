@@ -1,6 +1,6 @@
 # Hi, I'm Rofi'ah 👋
 
-### Data Analyst | AI & Data Enthusiast
+### Data Analyst | Data Engineer | AI & Data Enthusiast
 
 I'm a **Bachelor of Informatics graduate** with a strong interest in **Data Analytics, Business Intelligence, and Machine Learning**.
 
